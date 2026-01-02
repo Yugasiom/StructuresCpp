@@ -1,6 +1,6 @@
-#include "tree/test/test.hpp"
+#include "array/test/test.hpp"
 
 int main()
 {
-	return test();
+	return test_return_code();
 }

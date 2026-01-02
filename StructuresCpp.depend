@@ -115,3 +115,100 @@
 1755786946 source:/home/user30/Downloads/ProgrammingProjects/StructuresCpp/tree/tree.cpp
 	"tree.hpp"
 
+1767355265 source:/home/yugasiom/Downloads/Progs/StructuresCpp/array/array.cpp
+	"array.hpp"
+
+1767270259 source:/home/yugasiom/Downloads/Progs/StructuresCpp/array/test/test.cpp
+
+1767269810 source:/home/yugasiom/Downloads/Progs/StructuresCpp/common/common.cpp
+	"common.hpp"
+
+1767269810 /home/yugasiom/Downloads/Progs/StructuresCpp/common/common.hpp
+	<threads.h>
+
+1767269810 source:/home/yugasiom/Downloads/Progs/StructuresCpp/hash_table/hash_table.cpp
+	"hash_table.hpp"
+
+1767269810 /home/yugasiom/Downloads/Progs/StructuresCpp/hash_table/hash_table.hpp
+	<cstdint>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1767269810 source:/home/yugasiom/Downloads/Progs/StructuresCpp/hash_table/test/test.cpp
+	"test.hpp"
+
+1767269810 /home/yugasiom/Downloads/Progs/StructuresCpp/hash_table/test/test.hpp
+	"../hash_table.hpp"
+
+1767354565 source:/home/yugasiom/Downloads/Progs/StructuresCpp/list/list.cpp
+	"list.hpp"
+
+1767269810 source:/home/yugasiom/Downloads/Progs/StructuresCpp/sortings/sortings.cpp
+	"sortings.hpp"
+
+1767269810 /home/yugasiom/Downloads/Progs/StructuresCpp/sortings/sortings.hpp
+	<ctime>
+	<cstdio>
+	<cstdint>
+	<cstdlib>
+	<random>
+	<limits>
+	<iostream>
+	<algorithm>
+
+1767269810 source:/home/yugasiom/Downloads/Progs/StructuresCpp/sortings/test/test.cpp
+	"test.hpp"
+
+1767269810 /home/yugasiom/Downloads/Progs/StructuresCpp/sortings/test/test.hpp
+	"../sortings.hpp"
+
+1767269810 source:/home/yugasiom/Downloads/Progs/StructuresCpp/stack/stack.cpp
+	"stack.hpp"
+
+1767269810 /home/yugasiom/Downloads/Progs/StructuresCpp/stack/stack.hpp
+	<cstdio>
+	<cstdlib>
+	<cstdint>
+	<iostream>
+
+1767269810 source:/home/yugasiom/Downloads/Progs/StructuresCpp/stack/test/test.cpp
+	"test.hpp"
+
+1767269810 /home/yugasiom/Downloads/Progs/StructuresCpp/stack/test/test.hpp
+	"../stack.hpp"
+
+1767269810 source:/home/yugasiom/Downloads/Progs/StructuresCpp/tree/test/test.cpp
+	"test.hpp"
+
+1767269810 /home/yugasiom/Downloads/Progs/StructuresCpp/tree/test/test.hpp
+	"../tree.hpp"
+
+1767269810 /home/yugasiom/Downloads/Progs/StructuresCpp/tree/tree.hpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<stddef.h>
+	"../common/common.hpp"
+
+1767269810 source:/home/yugasiom/Downloads/Progs/StructuresCpp/tree/tree.cpp
+	"tree.hpp"
+
+1767354810 source:/home/yugasiom/Downloads/Progs/StructuresCpp/list/test/test.cpp
+	"test.hpp"
+
+1767271907 /home/yugasiom/Downloads/Progs/StructuresCpp/list/test/test.hpp
+	"../list.hpp"
+
+1767286701 /home/yugasiom/Downloads/Progs/StructuresCpp/list/list.hpp
+	<cstdint>
+	<iostream>
+
+1767271833 source:/home/yugasiom/Downloads/Progs/StructuresCpp/main.cpp
+	"list/test/test.hpp"
+
+1767355374 /home/yugasiom/Downloads/Progs/StructuresCpp/array/array.hpp
+	<cstdint>
+	<iostream>
+
